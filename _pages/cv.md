@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My CV in [pdf](/SumeyyeBilgen_CV.pdf)
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
