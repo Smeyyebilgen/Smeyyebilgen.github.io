@@ -15,22 +15,25 @@ Education
 ======
 * B.S. in Computer Engineering, Virginia Polytechnic Institue Of Technology, 2023-present
 
-Work experience
+Professional experience
 ======
-* Spring 2025: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Turkish student association - Virginia Tech
+* Event coordinator 
+  * planning and coordinating upcoming events
+  * Collaborating with the executive team to develop ideas for community engagement.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* ANS engineering - didim, Turkey
+* Intern
+  * designing building and villa electrical layout using AutoCAD
+  * received official approved from municipality for electrical projects
+  * participated in technical documentation and permitting projects.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Virginia Tech - Undergraduate grading assistant
+* Graded assignmenst and supported coursework delivery in foundational engineering class.
+
+* Virginia Tech dining services - Cashier
+* Managed cash accurately during peak hours
+
   
 Skills
 ======
@@ -38,26 +41,11 @@ Skills
 * Communication
   * Leadership
   * Organization
-  
+* AutoCAD
+* MATLAB
+* languages
+  * Turkish
+  * English
+  * Beginner korean
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
