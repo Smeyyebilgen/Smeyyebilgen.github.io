@@ -10,7 +10,7 @@
 main:
 
   - title: "CV"
-    url: /SumeyyeBilgen_CV.pdf/
+    url: /SumeyyeBilgen_CV.pdf
     
   # - title: "CV"
   #   url: /cv-json/
